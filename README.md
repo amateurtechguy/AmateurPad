@@ -40,10 +40,13 @@ Well AmateurPad is for you! Cause with AmateurPad you can write your thoughts do
 
 (My custom firmware comes with these settings included, but feel free to change it to better meet your needs!)
 
--Rotary Encoder:
-Turn Left	Turn Right	Press
-Volume Up	Volume Down	Toggle Layers
-Keys Base Layer:
+### Rotary Encoder:
+
+| Turn Left	| Turn Right |	Press |
+|-----------|------------|--------|
+| Volume Up |	Volume Down	| Toggle Layers|
+### Keys Base Layer:
+
 Col 1	Col 2	Col 3
 Row 1	Ctrl + C	Ctrl + V	Ctrl + X
 Row 2	Ctrl + A	Ctrl + F	Ctrl + Z
