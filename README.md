@@ -53,7 +53,7 @@ Well AmateurPad is for you! Cause with AmateurPad you can write your thoughts do
 |----|-----|--------|-------|
 |Row 1| Calculator |	GitHub | Notes |
 |Row 2|	Esc | Delete | Alt |
-|Row 3|	ctl |	space |	Enter |
+|Row 3|	Ctrl |	space |	Enter |
 
 ### Keys Numpad Layer:
 
