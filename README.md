@@ -49,10 +49,12 @@ Well AmateurPad is for you! Cause with AmateurPad you can write your thoughts do
 
 ### Keys Base Layer:
 
-Col 1	Col 2	Col 3
-Row 1	Ctrl + C	Ctrl + V	Ctrl + X
-Row 2	Ctrl + A	Ctrl + F	Ctrl + Z
-Row 3	Left Arrow	Up Arrow	Right Arrow
+|    |Col 1| Col 2	| Col 3 |
+|----|-----|--------|-------|
+|Row 1| Ctrl + C|	Ctrl + V |	Ctrl + X|
+|Row 2|	Ctrl + A| Ctrl + F | Ctrl + Z |
+|Row 3|	Left Arrow |	Up Arrow |	Right Arrow |
+
 Keys Numpad Layer:
 Col 1	Col 2	Col 3
 Row 1	7	8	9
