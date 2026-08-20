@@ -51,15 +51,17 @@ Well AmateurPad is for you! Cause with AmateurPad you can write your thoughts do
 
 |    |Col 1| Col 2	| Col 3 |
 |----|-----|--------|-------|
-|Row 1| Ctrl + C|	Ctrl + V |	Ctrl + X|
-|Row 2|	Ctrl + A| Ctrl + F | Ctrl + Z |
-|Row 3|	Left Arrow |	Up Arrow |	Right Arrow |
+|Row 1| Calculator |	GitHub | Notes |
+|Row 2|	Esc | Delete | Alt |
+|Row 3|	ctl |	space |	Enter |
 
-Keys Numpad Layer:
-Col 1	Col 2	Col 3
-Row 1	7	8	9
-Row 2	4	5	6
-Row 3	1	2	3
+### Keys Numpad Layer:
+
+|    |Col 1| Col 2	| Col 3 |
+|----|-----|--------|-------|
+|Row 1| 1 |	4 | 7 |
+|Row 2|	2 | 5 | 8 |
+|Row 3|	3 |	6 |	9 |
 
 
 ## How To Use:
