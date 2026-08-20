@@ -57,7 +57,8 @@ Row 3	1	2	3
 
 ## How To Use:
 
-Download QMK on laptop or pc
+Download QMK on laptop or pc.
+
 then click [here](https://docs.qmk.fm/newbs_flashing) for detailed instructions on how to flash it!
 
 ## What I Learned:
