@@ -45,6 +45,8 @@ Well AmateurPad is for you! Cause with AmateurPad you can write your thoughts do
 | Turn Left	| Turn Right |	Press |
 |-----------|------------|--------|
 | Volume Up |	Volume Down	| Toggle Layers|
+|-----------|-------------|--------------|
+
 ### Keys Base Layer:
 
 Col 1	Col 2	Col 3
